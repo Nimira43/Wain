@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Headphones",
+      "description": "Premium noise-cancelling wireless headphones with long battery life.",
+      "price": 199.99,
+      "quantity": 74,
+      "category": "Audio",
+      "rating": 4.5,
+      "image": "images/headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Smartwatch",
+      "description": "Fitness tracker with heart rate monitoring and sleep analysis.",
+      "price": 149.99,
+      "quantity": 61,
+      "category": "Wearables",
+      "rating": 4.2,
+      "image": "images/smartwatch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "PlayStation 5",
+      "description": "Cutting edge gaming console.",
+      "price": 449.99,
+      "quantity": 83,
+      "category": "Console",
+      "rating": 4.7,
+      "image": "images/playstation5.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Panasonic Smartbulbs",
+      "description": "Sophisticated IOT light bulbs",
+      "price": 79.99,
+      "quantity": 48,
+      "category": "Accessories",
+      "rating": 4.3,
+      "image": "images/iot-lightbulbs.jpg"
+    },
+    {
+      "id": 5,
+      "name": "HP Laptop",
+      "description": "High powered gaming laptop.",
+      "price": 589.99,
+      "quantity": 39,
+      "category": "Computers",
+      "rating": 4.8,
+      "image": "images/laptop.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dell Desktop",
+      "description": "High powered gaming desktop PC.",
+      "price": 949.99,
+      "quantity": 143,
+      "category": "Computers",
+      "rating": 4.1,
+      "image": "images/desktop.jpg"
+    }
+  ]
+}
