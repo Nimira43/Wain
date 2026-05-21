@@ -1,13 +1,18 @@
 import ProductList from './components/ProductList'
+import Header from './components/Header'
 
 const App = () => {
-  return (  
-    <div className='min-h-screen bg-grey-4 p-6'>
-      <h1 className='text-3xl text-main logo-font mb-6'>
-        Wain
-      </h1>
-      <ProductList />
-    </div>
+  return (
+    <>
+      <Header />
+      <div className='min-h-screen bg-grey-4 p-6'>
+        <h1 className='text-3xl mb-6 font-medium'>
+          Products Catalogue
+        </h1>
+        <ProductList />
+      </div>
+    </>
+    
   )
 }
  
